@@ -1,7 +1,5 @@
-# notes
-Personal learning notes
-
-剑指offer部分大量解法来自https://leetcode-cn.com/leetbook/detail/illustration-of-algorithm/,
+# Personal learning notes
+大量解法来自https://leetcode-cn.com/leetbook/detail/illustration-of-algorithm/,
 
 由K神大佬所写, [Krahets](https://leetcode-cn.com/u/jyd/)
 
