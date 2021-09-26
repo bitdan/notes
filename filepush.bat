@@ -4,7 +4,7 @@ git status
 echo;
 
 git add .
-set  /p  msg=comment:
+set  /p  msg=comment\
 echo;
 
 git commit -m "%msg%"
