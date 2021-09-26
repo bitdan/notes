@@ -6,7 +6,7 @@ git add .
 git commit -m "%msg%"
 git pull
 git push
-echo Successful£º¡¾%msg%¡¿
+echo Successful£º[[ %msg% ]]
 echo "--------End!--------"
 pause
 
