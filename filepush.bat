@@ -12,7 +12,7 @@ echo;
 
 git pull
 git push
-echo Successful -> [[ %msg% ]]
+echo Successful!
 echo;
 
 echo "--------End!--------"
