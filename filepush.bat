@@ -1,12 +1,20 @@
 @echo off
 echo "-------Begin-------"
 git status
-set  /p  msg=Please enter your comment:
+echo;
+
 git add .
+set  /p  msg=comment:
+echo;
+
 git commit -m "%msg%"
+echo;
+
 git pull
 git push
-echo Successful£º[[ %msg% ]]
+echo Successful -> [[ %msg% ]]
+echo;
+
 echo "--------End!--------"
 pause
 
